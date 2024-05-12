@@ -1,3 +1,7 @@
+import java.io.*;
+import java.util.*;
+import java.util.function.*;
+
 public class FunctionalInterfaces {
 
     public static void main(String[] args) {
