@@ -27,7 +27,7 @@ public class StreamOperations {
 				.forEach(System.out::println);
 
 		//Reduce
-		Syste.out.pritln(numbers.stream()
+		System.out.println(numbers.stream()
 				.reduce(0, (x,y) -> x*x + y*y));
 
 		//Sort using comparator
